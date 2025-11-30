@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../server"
+		},
+		{
+			"path": "../shared"
+		},
+		{
+			"path": "../client"
+		},
+		{
+			"path": "../script"
+		},
+		{
+			"path": "../.local"
+		}
+	]
+}
